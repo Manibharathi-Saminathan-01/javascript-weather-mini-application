@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Weather app</title>
+  </head>
+  <body>
+    <div class="whole-container">
+      <div class="left-sidebar-grid">
+        <div class="side-bar">
+          <button class="search-button">Search for places</button>
+        </div>
+        <div class="image-bar">
+          <img
+            src="/images/Cloud-background.png"
+            alt="img"
+            class="background-img"
+          />
+          <img src="/images/Clear.png" alt="image" class="img-changing" />
+        </div>
+        <div class="degree-space"><h1 class="left-degree-text">30°c</h1></div>
+        <div class="condition-space">
+          <h2 class="left-condition-space-text">Clear</h2>
+        </div>
+        <div class="location-space">
+          <p class="today-date">Today .mon.9 Jan</p>
+          <img
+            src="/images/mainlocation.png"
+            alt="image"
+            class="location-image"
+          />
+          <p class="location-text">Bangalore</p>
+        </div>
+      </div>
+      <div class="left-sidebar-grid-for-search">
+        <button class="close-button">x</button>
+        <div class="search-items">
+          <input
+            type="text"
+            placeholder="🔍 Search location"
+            class="search-textbox"
+          />
+          <button class="search-button-nextpage">Search</button>
+        </div>
+        <div class="list-box">
+          <div><button class="bangalore-button">Bangalore</button></div>
+          <div><button class="chennai-button">Chennai</button></div>
+          <div><button class="hydrabad-button">Hydrabad</button></div>
+        </div>
+      </div>
+      <div class="right-freespace">
+        <div class="celcias-buttons">
+          <div class="logo-celcias"><button class="cel-button">°C</button></div>
+          <div class="logo-farenheet">
+            <button class="faren-button">°F</button>
+          </div>
+        </div>
+        <div class="info-top">
+          <div class="item-1">
+            <p class="inside-info-top">Tomorrow</p>
+            <img src="/images/Hail.png" alt="image" class="tomorrow-image" />
+            <p class="inside-info-cel">33°c 2.5°C</p>
+          </div>
+          <div class="item-2">
+            <p class="inside-info-top1">11-01-23</p>
+            <img
+              src="/images/LightCloud.png"
+              alt="image"
+              class="day-after-day1"
+            />
+            <p class="inside-info-cel1">30°C 12°C</p>
+          </div>
+          <div class="item-3">
+            <p class="inside-info-top2">12-01-23</p>
+            <img src="/images/Snow.png" alt="image" class="day-after-day2" />
+            <p class="inside-info-cel2">38°C 5°C</p>
+          </div>
+          <div class="item-4">
+            <p class="inside-info-top3">13-01-23</p>
+            <img
+              src="/images/Thunderstorm.png"
+              alt="image"
+              class="day-after-day3"
+            />
+            <p class="inside-info-cel3">34°C 23°C</p>
+          </div>
+          <div class="item-5">
+            <p class="inside-info-top4">14-01-23</p>
+            <img src="/images/Sleet.png" alt="image" class="day-after-day4" />
+            <p class="inside-info-cel4">23°C 1.2°C</p>
+          </div>
+        </div>
+        <div class="header">
+          <h1 class="header-today">Today's Highlights</h1>
+        </div>
+        <div class="bottom-first">
+          <div class="bottom-first-box">
+            <p class="wind-status">Wind status</p>
+            <p class="speed">10 mph</p>
+            <p class="navi-symbol">↙️ WSW</p>
+          </div>
+          <div class="bottom-first-second-box">
+            <p class="text-humidity">Humidity</p>
+            <p class="text-percentage">64%</p>
+            <progress value="80" max="100" class="percentage-symbol">
+              55
+            </progress>
+          </div>
+        </div>
+        <div class="bottom-second">
+          <div class="bottom-first-grid">
+            <p class="visibility-text">Visibility</p>
+            <p class="visi-text">115 miles</p>
+          </div>
+          <div class="bottom-second-grid">
+            <p class="air-text">Air pressure</p>
+            <p class="air-text-count">1015 mb</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,144 @@
+{
+  "weather": [
+    {
+      "city": "Hydrabad",
+      "weatherdata": [
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23",
+          "condition": "sunny"
+        },
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23",
+          "condition": "cloudy"
+        },
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23"
+        },
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23"
+        }
+      ],
+      "currentcity": true
+    },
+    {
+      "city": "Bangalore",
+      "currentcity": false,
+      "weatherdata": [
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23"
+        },
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23"
+        },
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23"
+        },
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23"
+        }
+      ]
+    },
+    {
+      "city": "Chennai",
+      "currentcity": false,
+      "weatherdata": [
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23"
+        },
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23"
+        },
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23"
+        },
+        {
+          "temp_min": 297.56,
+          "temp_max": 300.05,
+          "faren_min": 12,
+          "faren_max": 30,
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "01-01-23"
+        }
+      ]
+    }
+  ]
+}

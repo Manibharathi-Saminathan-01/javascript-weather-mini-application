@@ -1,0 +1,237 @@
+{
+  "weather": [
+    {
+      "city": "Hydrabad",
+      "weatherdata": [
+        {
+          "faren_min": "297.56°f",
+          "faren_max": "300.6°f",
+          "temp_min": "10°c",
+          "temp_max": "24°c",
+          "pressure": "121 mb",
+          "humidity": "69%",
+          "wind_status": "23 mph",
+          "visibility": "1120 miles",
+          "date": "Today",
+          "day": "mon.9 Jan ",
+          "condition": "Clear"
+        },
+        {
+          "temp_min": "2.56°c",
+          "temp_max": "13°c",
+          "faren_min": "120°f",
+          "faren_max": "300°f",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "Tomorrow",
+          "condition": "Clear"
+        },
+        {
+          "temp_min": "13°c",
+          "temp_max": "20°c",
+          "faren_min": "160°f",
+          "faren_max": "250°f",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "condition": "HeavyCloud",
+          "date": "11-01-23"
+        },
+        {
+          "temp_min": "1°c",
+          "temp_max": "25°c",
+          "faren_min": "180°f",
+          "faren_max": "220°f",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "condition": "LightRain",
+          "date": "12-01-23"
+        },
+        {
+          "temp_min": "12.4°c",
+          "temp_max": "30°c",
+          "faren_min": "260°f",
+          "faren_max": "400°f",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "condition": "Sleet",
+          "date": "13-01-23"
+        },
+        {
+          "temp_min": "8°c",
+          "temp_max": "34°c",
+          "faren_min": "200°f",
+          "faren_max": "400°f",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "condition": "Snow",
+          "date": "14-01-23"
+        }
+      ],
+      "currentcity": true
+    },
+    {
+      "city": "Bangalore",
+      "currentcity": false,
+      "weatherdata": [
+        {
+          "faren_min": " 297.56°f",
+          "faren_max": "300.05°f",
+          "temp_min": "12°c",
+          "temp_max": "30°c",
+          "pressure": "1015 mb",
+          "humidity": "64%",
+          "wind_status": "10 mph",
+          "visibility": "115 miles",
+          "date": "Today",
+          "day": "mon.9 Jan ",
+          "condition": "Clear"
+        },
+        {
+          "faren_min": " 198.56°f",
+          "faren_max": "550.05°f",
+          "temp_min": "2.5°c",
+          "temp_max": "33°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "Tomorrow",
+          "condition": "Hail"
+        },
+        {
+          "faren_min": "123.56°f",
+          "faren_max": "250.05°f",
+          "temp_min": "12°c",
+          "temp_max": "30°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "11-01-23",
+          "condition": "LightCloud"
+        },
+        {
+          "faren_min": "100.56°f",
+          "faren_max": "210.05°f",
+          "temp_min": "5°c",
+          "temp_max": "38°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "12-01-23",
+          "condition": "Snow"
+        },
+        {
+          "faren_min": "67.56°f",
+          "faren_max": "189.05°f",
+          "temp_min": "23°c",
+          "temp_max": "34°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "13-01-23",
+          "condition": "Thunderstorm"
+        },
+        {
+          "faren_min": "145.56°f",
+          "faren_max": "450.05°f",
+          "temp_min": "1.2°c",
+          "temp_max": "23°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "14-01-23",
+          "condition": "Sleet"
+        }
+      ]
+    },
+    {
+      "city": "Chennai",
+      "currentcity": false,
+      "weatherdata": [
+        {
+          "faren_min": "78.56°f",
+          "faren_max": "123.05°f",
+          "temp_min": "22°c",
+          "temp_max": "34°c",
+          "pressure": "677 mb",
+          "humidity": "43%",
+          "wind_status": "22 mph",
+          "visibility": "345 miles",
+          "date": "Today",
+          "day": "mon.9 Jan ",
+          "condition": "Shower"
+        },
+        {
+          "faren_min": "113.56°f",
+          "faren_max": "423.05°f",
+          "temp_min": "13.2°c",
+          "temp_max": "29°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "date": "Tomorrow",
+          "condition": "LightRain"
+        },
+        {
+          "faren_min": "123.56°f",
+          "faren_max": "134.05°f",
+          "temp_min": "14.2°c",
+          "temp_max": "29°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "condition": "Hail",
+          "date": "11-01-23"
+        },
+        {
+          "faren_min": "234.56°f",
+          "faren_max": "451.05°f",
+          "temp_min": "15.2°c",
+          "temp_max": "28°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "condition": "Hail",
+          "date": "12-01-23"
+        },
+        {
+          "faren_min": "123.56°f",
+          "faren_max": "233.05°f",
+          "temp_min": "19.2°c",
+          "temp_max": "32°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "condition": "Snow",
+          "date": "12-01-23"
+        },
+        {
+          "faren_min": "134.56°f",
+          "faren_max": "300.05°f",
+          "temp_min": "12.2°c",
+          "temp_max": "24°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "condition": "Clear",
+          "date": "13-01-23"
+        },
+        {
+          "faren_min": "67.56°f",
+          "faren_max": "143.05°f",
+          "temp_min": "7.5°c",
+          "temp_max": "34°c",
+          "pressure": 1015,
+          "humidity": 64,
+          "visibility": 1015,
+          "condition": "HeavyCloud",
+          "date": "14-01-23"
+        }
+      ]
+    }
+  ]
+}

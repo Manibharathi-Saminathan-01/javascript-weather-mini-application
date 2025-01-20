@@ -1,0 +1,11 @@
+Colors
+
+Light background - #1E213A
+Dark background - #100E1D
+Dark grey - #A09FB1
+Light grey - #E7E7EB
+Yellow - #FFEC65
+
+
+Font : 
+https://fonts.google.com/specimen/Raleway
